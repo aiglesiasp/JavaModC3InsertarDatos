@@ -33,13 +33,13 @@ INSERT INTO despachos VALUES (9, 200);
 INSERT INTO despachos VALUES (10, 100000);
 
 
-INSERT INTO directores VALUES ("33344455", "Juan Antonio Rodriguez Parra", "33344455", 3);
-INSERT INTO directores VALUES ("33344477", "Camila Garcia Perez", "33344455", 4);
-INSERT INTO directores VALUES ("33344466", "Javier Perez", "33344455", 4);
-INSERT INTO directores VALUES ("33344488", "Aitor Iglesias Pubill", "33344455", 4);
-INSERT INTO directores VALUES ("33344499", "Francisco Parra", "33344455", 7);
-INSERT INTO directores VALUES ("33344400", "Josep Maria Valles", "33344455", 7);
-INSERT INTO directores VALUES ("33344411", "Gustavo Cruz", "33344455", 7);
-INSERT INTO directores VALUES ("33344422", "Antonio Iglesias Espada", "33344455", 7);
-INSERT INTO directores VALUES ("33344433", "Pablo Escobar Plata", "33344455", 7);
-INSERT INTO directores VALUES ("33344444", "Pablo Escobar Plomo", "33344455", 7);
+INSERT INTO directores VALUES ('33344455', 'Juan Antonio Rodriguez Parra', '33344455', 3);
+INSERT INTO directores VALUES ('33344477', 'Camila Garcia Perez', '33344455', 4);
+INSERT INTO directores VALUES ('33344466', 'Javier Perez', '33344455', 4);
+INSERT INTO directores VALUES ('33344488', 'Aitor Iglesias Pubill', '33344455', 4);
+INSERT INTO directores VALUES ('33344499', 'Francisco Parra', '33344455', 7);
+INSERT INTO directores VALUES ('33344400', 'Josep Maria Valles', '33344455', 7);
+INSERT INTO directores VALUES ('33344411', 'Gustavo Cruz', '33344455', 7);
+INSERT INTO directores VALUES ('33344422', 'Antonio Iglesias Espada', '33344455', 7);
+INSERT INTO directores VALUES ('33344433', 'Pablo Escobar Plata', '33344455', 7);
+INSERT INTO directores VALUES ('33344444', 'Pablo Escobar Plomo', '33344455', 7);
